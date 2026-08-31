@@ -24,7 +24,7 @@ A responsive bilingual website for Pasadena Recycling in Pasadena, Texas.
 
 ### [Houston METRO Delay Intelligence](https://github.com/adriandev24/houston-metro-delay-intelligence)
 
-A Houston transit operations analytics blueprint for identifying bus delay drivers, measuring reliability, and developing predictive decision-support insights.
+A Houston transit operations analytics blueprint for identifying bus delay drivers, measuring reliability, and developing predictive decision-support insights. This project was built as a final school project for my capstone in Data Science, however, I wanted to rebuild the whole project and provide more insight / portray my skills even more by creating a more complex version. 
 
 ## Core skills
 
