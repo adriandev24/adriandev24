@@ -2,7 +2,7 @@
 
 **Data Analyst at Amazon | Business Intelligence | SQL • Python • QuickSight**
 
-I’m a Houston-based data analyst and University of Houston computer science graduate. I turn operational data into reliable pipelines, trusted KPIs, and decision-ready reporting.
+I’m a Houston-based data analyst and University of Houston computer science graduate. I turn operational data into reliable pipelines, trusted KPIs, and decision-ready reporting. Explore my work at [riosadrian.com](https://riosadrian.com).
 
 ## What I work on
 
@@ -12,19 +12,15 @@ I’m a Houston-based data analyst and University of Houston computer science gr
 - Build dimensional models and data-quality controls
 - Investigate trends, defects, and root causes in business processes
 
-## Selected work
+## Pinned projects
 
-### [Data & BI Portfolio](https://riosadrian.com)
+### [Adrian Rios Portfolio](https://github.com/adriandev24/adrian-rios-portfolio)
 
-My professional portfolio featuring experience, technical capabilities, and case studies focused on operational analytics and business intelligence.
+A personal portfolio for data analytics, BI engineering, and analytics engineering work.
 
 ### [QueueSmart](https://github.com/adriandev24/queuesmart-group13)
 
 A FastAPI and SQLite queue-management application with administrator reporting, CSV exports, automated testing, and historical wait-time recommendations.
-
-### [Houston METRO Bus Delay Prediction](https://riosadrian.com/work/metro-delay-prediction)
-
-A classification project examining the service and route conditions associated with late bus arrivals in Houston.
 
 ## Core skills
 
