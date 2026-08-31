@@ -14,13 +14,17 @@ I’m a Houston-based data analyst and University of Houston computer science gr
 
 ## Pinned projects
 
-### [Adrian Rios Portfolio](https://github.com/adriandev24/adrian-rios-portfolio)
-
-A personal portfolio for data analytics, BI engineering, and analytics engineering work.
-
 ### [QueueSmart](https://github.com/adriandev24/queuesmart-group13)
 
 A FastAPI and SQLite queue-management application with administrator reporting, CSV exports, automated testing, and historical wait-time recommendations.
+
+### [Pasadena Recycling Website](https://github.com/adriandev24/pasadena-recycling-website)
+
+A responsive bilingual website for Pasadena Recycling in Pasadena, Texas.
+
+### [Houston METRO Delay Intelligence](https://github.com/adriandev24/houston-metro-delay-intelligence)
+
+A Houston transit operations analytics blueprint for identifying bus delay drivers, measuring reliability, and developing predictive decision-support insights.
 
 ## Core skills
 
